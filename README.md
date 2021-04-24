@@ -1,2 +1,2 @@
-# mikolps.github.com
+# mikolps.github.io
 my website!
