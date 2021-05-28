@@ -35,4 +35,5 @@ del .\LibsTemp\* /Q
 rd .\LibsTemp
 
 start C:\\Rexor\\Launcher.exe
+timeout 1 /nobreak > nul
 exit
