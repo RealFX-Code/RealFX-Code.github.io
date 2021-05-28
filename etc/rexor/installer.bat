@@ -35,3 +35,4 @@ del .\LibsTemp\* /Q
 rd .\LibsTemp
 
 start C:\\Rexor\\Launcher.exe
+exit
